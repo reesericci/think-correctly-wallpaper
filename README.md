@@ -1,9 +1,10 @@
 # think-correctly-arco
 A siiick wallpaper for Apple/macOS haters using Arco Linux.
 
+# Download the latest thinkcorrectly.png from the repo for use
+
 Made proudly using GIMP!
 ![Screenshot](https://user-images.githubusercontent.com/19589006/91660231-b6259180-ea9a-11ea-80e7-1d42efcae0e6.png)
-
 
 
 
