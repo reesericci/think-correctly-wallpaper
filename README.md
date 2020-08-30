@@ -2,8 +2,8 @@
 A siiick wallpaper for Apple/macOS haters using Arco Linux.
 
 Made proudly using GIMP!
+![Screenshot](https://user-images.githubusercontent.com/19589006/91660231-b6259180-ea9a-11ea-80e7-1d42efcae0e6.png)
 
-![Screenshot](https://cdn.discordapp.com/attachments/564725067213307905/749616668728361020/thinkcorrectly.png)
 
 Based off of this wallpaper:
 
